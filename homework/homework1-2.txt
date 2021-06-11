@@ -1,0 +1,33 @@
+
+sergi@LAPTOP-AU8QR2JV MINGW64 /
+$ cd ~/OneDrive
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive
+$ ls
+'Aqui Sergio chronology'/   Favorites/      'OneNote Uploads'/
+ Documents/                 Fotos/           USCIS_SergioForms/
+'Email attachments'/        MSOfficeFiles/   desktop.ini
+ Escritorio/               'Nuevo álbum'/
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive
+$ cd Documents
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive/Documents
+$ ls
+ MEDA/             desktop.ini                     summer2021-webdesign-sergio/
+'McAfee Vaults'/   summer2021-webdesign-eduardo/
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive/Documents
+$ cd summer2021-webdesign-sergio
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive/Documents/summer2021-webdesign-sergio
+$ mkdir homework
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive/Documents/summer2021-webdesign-sergio
+$ cd homework
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive/Documents/summer2021-webdesign-sergio/homework
+$ touch homework1-2.txt
+
+sergi@LAPTOP-AU8QR2JV MINGW64 ~/OneDrive/Documents/summer2021-webdesign-sergio/homework
+$
